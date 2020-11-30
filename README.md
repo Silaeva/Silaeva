@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Silaeva/Silaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Anna and I`m frontend developer ⚡
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and tools I use:
+- HTML
+- CSS
+- JavaScript
+- React
+- Redux
+- Webpack
+
+Here some of my projects: 
+
+  github | deployed project | about | technologies
+  --- | --- | --- | ---
+[what-to-watch](https://github.com/Silaeva/1078695-what-to-watch-5) | [what-to-watch](https://1078695-what-to-watch-5.vercel.app/) | Application for watching movies | React, Redux, Jest, Enzyme, Webpack
+[cinemaddict](https://github.com/Silaeva/1078695-cinemaddict-12) | [cinemaddict](https://1078695-cinemaddict.vercel.app/) | Service about movies | JavaScript (ES6), Webpack
+[cat-energy](https://github.com/Silaeva/Cat-energy-18) | [cat-energy](cat-energy.vercel.app) | Оnline fitness food store for cats | HTML, SCSS, JavaScript (ES5), Gulp
+
+
+
+📫 How to reach me:<br>
+ - telegram: [@Anka_Silaeva](https://t.me/Anka_Silaeva)<br>
+ - email: <a href="mailto:silaeva.annushka@gmail.com">silaeva.annushka@gmail.com</a>
+
