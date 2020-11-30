@@ -17,9 +17,7 @@ Here some of my projects:
   --- | --- | --- | ---
 [what-to-watch](https://github.com/Silaeva/1078695-what-to-watch-5) | [what-to-watch](https://1078695-what-to-watch-5.vercel.app/) | Application for watching movies | React, Redux, Jest, Enzyme, Webpack
 [cinemaddict](https://github.com/Silaeva/1078695-cinemaddict-12) | [cinemaddict](https://1078695-cinemaddict.vercel.app/) | Service about movies | JavaScript (ES6), Webpack
-[cat-energy](https://github.com/Silaeva/Cat-energy-18) | [cat-energy](cat-energy.vercel.app) | Оnline fitness food store for cats | HTML, SCSS, JavaScript (ES5), Gulp
-
-
+[cat-energy](https://github.com/Silaeva/Cat-energy-18) | [cat-energy](https://cat-energy.vercel.app/) | Оnline fitness food store for cats | HTML, SCSS, JavaScript (ES5), Gulp
 
 📫 How to reach me:<br>
  - telegram: [@Anka_Silaeva](https://t.me/Anka_Silaeva)<br>
